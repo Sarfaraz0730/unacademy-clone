@@ -6,13 +6,12 @@ Unacademy is an Edtech company established in 2015. The company had its beginnin
 
 ## Deployment
 
-link : https://unacademy-clone.netlify.app/
-
 To deploy this project run
 
 ```bash
   npm run start 
 ```
+link : https://unacademy-clone.netlify.app/
 
 ## Features
 
