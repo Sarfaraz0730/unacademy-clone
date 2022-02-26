@@ -35,10 +35,6 @@ link : https://unacademy-clone.netlify.app/
 **Server:** Node, Express, MongoDb, Rest Api
 
 
-## Acknowledgements
-
- - [Awesome Readme Templates](https://unacademy.com)
- - [Awesome README](https://www.masaischool.com/)
 
 
 
