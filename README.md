@@ -2,8 +2,8 @@
 # Unacademy -Clone
 
 
-Unacademy is one of the best online learning platforms available in the nation. From the same old mundane classrooms to the comfort of whenever and wherever, Unacademy has changed the way we learn. The company is headquartered at Bangalore and currently has over 20 million students.
-Students from every niche of the nation with a decent smartphone and a good internet connectivity will soon be using the online platforms for education.
+Unacademy is an Edtech company established in 2015. The company had its beginnings as a Youtube channel created by Gaurav Munjal and started by Dheeraj Meena. Later on, in 2015, the company was registered in Bengaluru as an education company. The company has entered the Unicorn club in September 2020 after it raised $150 million from Softbank and other existing investors.
+
 ## Deployment
 
 link : https://unacademy-clone.netlify.app/
